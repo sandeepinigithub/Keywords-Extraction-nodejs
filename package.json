@@ -1,0 +1,17 @@
+{
+  "name": "keywords-extraction",
+  "version": "1.0.0",
+  "description": "Keywords extraction for Cloud",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "keyword-extractor": "0.0.18",
+    "parse-json": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep Shukla",
+  "license": "ISC"
+}
