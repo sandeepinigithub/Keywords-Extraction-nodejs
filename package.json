@@ -4,7 +4,7 @@
   "description": "Keywords extraction for Cloud",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "keyword-extractor": "0.0.18",
     "parse-json": "^5.0.0"
   },
